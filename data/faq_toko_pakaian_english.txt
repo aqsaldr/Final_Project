@@ -1,0 +1,546 @@
+CUSTOMER QUESTION LIST — PEKYS STORE CUSTOMER SERVICE CHATBOT
+Topic: Clothing products, innovative materials, sizes, care, shipping, and exchanges
+
+This document is a realistic list of questions that customers will ask the CS chatbot
+The Knowledge document is compiled to answer ALL these questions.
+
+CATEGORY 1: QUESTIONS ABOUT PRODUCTS AND MATERIAL
+
+1. What products are sold at Pekys Store?
+2. What material are Pekys Hoodies made of? 
+3. Are Pekys Sweaters cooling or warm? 
+4. What material are Pekys t-shirts, cotton combed or cotton bamboo? 
+5. Are there any short-sleeved Pekys shirts? 
+6. Are there any stretch material Pekys pants? 
+7. Are Pekys jackets suitable for rain? 
+8. Are there any formal clothes from Pekys?
+9. Can Pekys products be used for sports?
+10. What colors are available for hoodies?
+11. What colors do the plain t-shirts come in?
+12. What colors are the shirts available in?
+13. Are there limited edition products or new collections?
+
+CATEGORY 2: QUESTIONS ABOUT INNOVATIVE MATERIALS
+
+14. What is Aerochill material? 
+15. What is ThermoWarm material? 
+16. What is the difference between Aerochill and ThermoWarm? 
+17. What products use Aerochill material? 
+18. What products use ThermoWarm material? 
+19. Is Aerochill suitable for wearing in hot weather?
+20. How warm is ThermoWarm? Is it the same as a thick jacket?
+21. Is Aerochill material safe for sensitive skin?  
+22. How do you care for clothes made of Aerochill?  
+23. How do you care for clothes made of ThermoWarm?  
+24. Does Aerochill absorb sweat?  
+25. Is ThermoWarm suitable for outdoor wear when it's cold?  
+26. Aerochill vs regular fabric, what is the immediately noticeable difference?  
+27. Can ThermoWarm products be machine washed?  
+
+ 
+CATEGORY 3: QUESTIONS ABOUT SIZES  
+ 
+
+28. What chest circumference is size S at Pekys for?  
+29. I usually wear XL in other brands, what size should I wear at Pekys?  
+30. Does Pekys have XXL or XXXL sizes?  
+31. How to properly measure the body to choose a size?  
+32. If my body is between two sizes, which one should I choose?  
+33. Are the hoodie sizes the same as the t-shirt sizes at Pekys?  
+34. Is there a size difference for men and women?  
+35. Is a size 32 pants at Pekys the same as a standard 32 inch?  
+36. Are Big Size or Oversize available?  
+
+CATEGORY 4: QUESTIONS ABOUT CLOTHING CARE  
+
+37. Can they be washed with a washing machine?  
+38. Can they be ironed?  
+39. What is a safe water temperature for washing Pekys clothes?  
+40. Can bleach be used on Pekys clothes?  
+41. How to wash them properly so the colors don't fade?  
+42. Can they be put in a machine dryer?  
+43. How to store the clothes so they don't get damaged?  
+44. Can Pekys hoodies be dry cleaned?  
+
+CATEGORY 5: QUESTIONS ABOUT ORDERING AND PRICES  
+ 
+45. How much do t-shirts cost at Pekys Store?  
+46. How much do Pekys hoodies cost?  
+47. How much do Pekys jackets cost?  
+48. Where can I buy Pekys products?  
+49. Is there a physical Pekys store?  
+50. Can Pekys be ordered on Shopee or Tokopedia?  
+51. Is there a discount for the first purchase?  
+52. Are there bundling programs or buy-more-save-more?  
+53. Are there special member promos?  
+54. How to place custom or wholesale orders?  
+ 
+CATEGORY 6: QUESTIONS ABOUT SHIPPING  
+ 
+55. How long is the delivery to Jabodetabek?  
+56. How long is the delivery outside Java?  
+57. What expedition does Pekys Store use?  
+58. Is there a same day delivery service?  
+59. How much is the shipping cost to Surabaya?  
+60. Is free shipping available?  
+
+CATEGORY 7: QUESTIONS ABOUT EXCHANGES AND RETURNS  
+ 
+61. If the size doesn't fit, can it be exchanged?  
+62. What is the procedure for exchanging goods?  
+63. How long is the time limit for an exchange?  
+64. If the goods are damaged or defective when received, what should I do?  
+65. Is a refund possible or only an exchange of goods?  
+66. Who bears the shipping costs for exchanges?  
+67. Can sale products be exchanged?  
+
+KNOWLEDGE BASE FAQ AND PRODUCT MANUAL  
+Store Name: Pekys Store  
+Category: Men's and Women's Clothing Store  
+This document is the official reference source for customer service assistants in answering customer questions regarding products, materials, sizes, care, ordering, shipping, and Pekys Store's exchange policies.  
+
+ 
+PART 1: PEKYS STORE PROFILE  
+ 
+ABOUT PEKYS STORE  
+
+Pekys Store is a clothing store providing collections of quality casual and semi-formal wear for men and women.   Pekys Store is here with a vision to provide comfortable, stylish, and affordable clothing for everyday needs.  
+
+Pekys Store Advantages:  
+* Complete collections from top to bottom  
+* Exclusive innovative materials available: Aerochill and ThermoWarm  
+* Sizes available from XS to XXXL (Big Size)  
+* Affordable prices with premium quality  
+
+Ordering platforms:  
+* Shopee: PekysStore Official  
+* Tokopedia: PekysStore  
+* Instagram: @pekysstore  
+* WhatsApp CS: 089512132209
+
+ 
+PART 2: PRODUCT CATALOG AND PRICES  
+ 
+T-SHIRTS  
+
+Available t-shirt types:  
+* Basic Plain T-Shirt: Rp 89,000  
+* Oversize T-Shirt: Rp 99,000  
+* Aerochill T-Shirt (innovative anti-heat material): Rp 129,000  
+* Graphic T-Shirt: Rp 109,000  
+
+Standard t-shirt material: Cotton Combed 30s, soft and absorbs sweat  
+Aerochill t-shirt material: Pekys' exclusive fabric technology (full explanation in Part 3)  
+
+Colors available for Basic Plain T-Shirts: White, Black, Grey,   Navy, Cream, Dusty Pink, Sage Green, Maroon, Cobalt Blue, Mustard Yellow  
+Colors available for Aerochill T-Shirts: White, Black, Grey, Navy, Mint  
+
+Sizes available: XS, S, M, L, XL, XXL, XXXL  
+
+
+
+SHIRTS  
+
+Available shirt types:  
+* Casual Long Sleeve Shirt: Rp 169,000  
+* Casual Short Sleeve Shirt: Rp 149,000  
+* Flannel Shirt: Rp 189,000  
+* Aerochill Short Sleeve Shirt: Rp 199,000  
+
+Casual shirt material: 100% Cotton, breathable and comfortable for daily wear  
+Flannel shirt material: Premium flannel, warm and suitable for cold weather  
+Aerochill shirt material: Exclusive anti-heat fabric technology (explanation Part 3)  
+
+Casual shirt colors available: White, Light Blue, Grey, Black, Cream, Olive  
+Flannel shirt colors: Red Plaid, Blue Plaid, Green Plaid, Grey   Plaid  
+
+Sizes available: XS, S, M, L, XL, XXL  
+
+
+HOODIES  
+
+Available hoodie types:  
+* Basic Fleece Hoodie: Rp 229,000  
+* Oversize Hoodie: Rp 249,000  
+* ThermoWarm Hoodie (innovative anti-cold material): Rp 289,000  
+* Zipper Hoodie: Rp 259,000  
+
+Standard hoodie material: Cotton Fleece 20s, thick, warm, and comfortable  
+ThermoWarm hoodie material: Pekys' exclusive fabric technology (explanation Part 3)  
+
+Colors available for Basic Hoodie: Black, Grey, Navy, Cream, Dusty Pink, Maroon, Forest Green, Cobalt Blue  
+Colors available for ThermoWarm Hoodie: Black, Grey, Navy, Cream, Maroon  
+
+Sizes available: XS, S, M, L, XL, XXL, XXXL  
+
+
+SWEATERS  
+
+Available sweater types:  
+* Basic Crewneck Sweater: Rp 199,000  
+* ThermoWarm Sweater: Rp 259,000  
+* Knit Sweater: Rp 219,000  
+
+Basic sweater material: Cotton Fleece 20s,   comfortable and lightweight  
+ThermoWarm sweater material: Exclusive anti-cold fabric technology (explanation Part 3)  
+Knit sweater material: Premium knit, unique and stylish texture  
+
+Colors available for Basic Sweater: Black, Grey, Navy, Cream, Dusty Pink, Sage Green  
+Colors available for ThermoWarm Sweater: Black, Grey, Navy, Cream  
+
+Sizes available: XS, S, M, L, XL, XXL  
+
+
+JACKETS  
+
+Available jacket types:  
+* Bomber Jacket: Rp 319,000  
+* Windbreaker Jacket: Rp 299,000  
+* ThermoWarm Jacket: Rp 379,000  
+* Denim Jacket: Rp 359,000  
+
+Bomber jacket material: Premium polyester, lightweight and stylish  
+Windbreaker jacket material: Wind-resistant and lightweight nylon, not fully waterproof but resistant to light splashes  
+ThermoWarm jacket material: Exclusive anti-cold fabric technology (explanation Part 3)  
+Denim jacket material:   12oz Denim, classic and durable  
+
+Bomber Jacket Colors: Black, Olive, Navy, Cream  
+Windbreaker Jacket Colors: Black, Navy, Grey, Red, Olive  
+
+Sizes available: XS, S, M, L, XL, XXL  
+
+Note: Windbreaker jackets are resistant to light water splashes but are NOT fully waterproof.   Not recommended for heavy rain.  
+
+
+PANTS  
+
+Available pants types:  
+* Chino Pants: Rp 199,000  
+* Jogger Pants: Rp 179,000  
+* Cargo Pants: Rp 229,000  
+* Denim Pants (Jeans): Rp 249,000  
+* Casual Shorts: Rp 149,000  
+
+Chino pants material: Cotton Chino, neat and suitable for casual to semi-formal  
+Jogger pants material: Cotton Fleece, comfortable for relaxing and light activities  
+Cargo pants material: Cotton Canvas, durable with many pockets  
+Denim pants material: 10oz Stretch Denim, flexible and comfortable for all-day wear  
+
+Pants sizes (waist): 27, 28, 29, 30, 31, 32, 33, 34, 36, 38, 40  
+Pants sizes (S-XXXL): XS, S, M, L, XL, XXL (for joggers and cargos)  
+
+ 
+PART 3: PEKYS STORE EXCLUSIVE INNOVATIVE MATERIALS  
+ 
+AEROCHILL   — ANTI-HEAT FABRIC TECHNOLOGY  
+
+What is Aerochill?  
+Aerochill is an exclusive innovative material technology from Pekys Store specifically designed to provide a cool and comfortable sensation in hot weather or during sweat-inducing activities.  
+
+How Aerochill works:  
+Aerochill fabric uses specially structured microfibers that have three main abilities:  
+* 1. Moisture Wicking: absorbs and channels sweat quickly from the skin's surface to the outer layer of the fabric, keeping the skin dry  
+* 2. Quick Dry: absorbed liquids evaporate faster compared to regular cotton fabrics, keeping the body cool  
+* 3. Anti Odor: the fabric fibers have pores that prevent the growth of body odor-causing bacteria  
+
+Sensation felt:  
+When first wearing Aerochill, the skin will feel a light, cooling sensation like a gentle breeze.   This effect continues to be felt, especially when moving, because the air circulation inside the fabric is very good.  
+
+Differences with regular fabrics:  
+* Regular cotton t-shirt: absorbs sweat but is slow to dry, can feel sticky  
+* Aerochill: absorbs sweat and immediately channels it out, skin stays dry  
+
+Products using Aerochill: Aerochill T-Shirt, Aerochill Short Sleeve Shirt  
+
+Suitable for:  
+* Outdoor activities in hot weather  
+* Light sports and walking  
+* Daily wear in Indonesia's tropical climate  
+* Users who sweat easily  
+
+Safe for sensitive skin: Yes, Aerochill fibers have been tested and contain no harmful chemicals, making it safe for sensitive skin.  
+Premium price: Aerochill products are sold slightly more expensive than standard products due to the more complex innovative fabric production process.  
+
+
+
+THERMOWARM — ANTI-COLD FABRIC TECHNOLOGY  
+
+What is ThermoWarm?  
+ThermoWarm is an exclusive innovative material technology from Pekys Store designed to maintain body warmth in cold weather without having to use thick and heavy clothing.  
+
+How ThermoWarm works:  
+ThermoWarm fabric uses thermo-regulating fiber technology that works through three mechanisms:  
+* 1. Heat Retention: the fabric fibers capture and store body heat, then reflect it back to the skin so the body stays warm  
+* 2. Moisture Management: still capable of absorbing moisture so it doesn't make the body damp even when warm  
+* 3. Lightweight Warmth: provides warmth equivalent to a thick jacket but within a thin and lightweight fabric layer  
+
+Sensation felt:  
+ThermoWarm provides even warmth across the entire body surface covered by the fabric, like a consistent warm hug.   Unlike thick jackets that are only warm in certain spots, ThermoWarm maintains even warmth.  
+
+Warmth comparison:  
+* ThermoWarm is equivalent to 1-2 layers of regular clothing at temperatures of 15-20 degrees Celsius  
+* Highly suitable for air-conditioned rooms, air travel, mountainous areas  
+* For extreme temperatures below 10 degrees Celsius, it is recommended to add an outer layer  
+
+Products using ThermoWarm:  
+ThermoWarm Hoodie, ThermoWarm Sweater, ThermoWarm Jacket  
+
+Suitable for:  
+* Users who are often in air-conditioned rooms  
+* Travel to mountainous or highland areas  
+* Winter or unpredictable weather  
+* Users who get cold easily  
+
+Aerochill vs ThermoWarm differences:  
+* Aerochill: for HOT weather, keeps the body cool and dry  
+* ThermoWarm: for COLD weather, keeps the body warm  
+* Both are different technologies for opposite climate needs  
+* It is not recommended   to wear both at the same time as their purposes are opposite  
+
+ 
+PART 4: SIZE GUIDE  
+ 
+TOPS SIZE GUIDE (T-SHIRTS, SHIRTS, HOODIES, SWEATERS)  
+
+Correct way to measure:  
+* Chest Circumference: measure around the widest part of the chest, in cm  
+* Shirt Length: measure from the highest shoulder point to the bottom edge of the shirt  
+
+Pekys Store Tops Size Chart:  
+* XS: Chest 80-84 cm, Body Height 155-160 cm  
+* S : Chest 84-88 cm, Body Height 160-165 cm  
+* M : Chest 88-94 cm, Body Height 165-170 cm  
+* L : Chest 94-100 cm, Body Height 170-175 cm  
+* XL: Chest 100-106 cm, Body Height 175-180 cm  
+* XXL: Chest 106-114 cm, Body Height 180-185 cm  
+* XXXL: Chest 114-122   cm, Body Height 185 cm and above  
+
+Important notes for sizing:  
+* Pekys Store sizes follow Asian standard sizing, not European or American  
+* If your body size falls between two sizes, it is recommended to choose the larger size for better comfort  
+* For a loose oversize style, choose 1-2 sizes above your usual size  
+* Hoodies and sweaters have a slightly looser fit than t-shirts in the same size number  
+
+
+
+PANTS SIZE GUIDE  
+
+Pants Size Chart (based on waist circumference):  
+* Size 27: Waist 66-68 cm  
+* Size 28: Waist 69-72 cm  
+* Size 29: Waist 73-75 cm  
+* Size 30: Waist 76-78 cm  
+* Size 31: Waist 79-81 cm  
+* Size 32:   Waist 82-84 cm  
+* Size 33: Waist 85-87 cm  
+* Size 34: Waist 88-90 cm  
+* Size 36: Waist 91-95 cm  
+* Size 38: Waist 96-100 cm  
+* Size 40: Waist 101-106 cm  
+
+For Joggers and Cargos using the S-XXL system:  
+* S: equivalent to size 28-29  
+* M: equivalent to size 30-31  
+* L: equivalent to size 32-33  
+* XL: equivalent to size 34-36  
+* XXL: equivalent to size 38-40  
+
+Note: Pekys Denim Pants use the same inch sizes as international standards.   A size 32 at Pekys is equivalent to a 32-inch waist circumference.  
+
+ 
+PART 5: CLOTHING CARE GUIDE  
+ 
+STANDARD PRODUCT CARE (T-SHIRTS, SHIRTS, HOODIES, REGULAR SWEATERS)  
+
+Washing:  
+* Can be machine washed using the gentle or delicate cycle  
+* Maximum water temperature is 30 degrees Celsius (lukewarm water, not hot)  
+* Separate dark and light-colored clothes when washing  
+* Use mild liquid detergent, avoid harsh powder detergents  
+* DO NOT use bleach as it can damage fibers and fade colors  
+
+Drying:  
+* Dry in a shaded area or a well-ventilated room, avoid excessive direct sunlight as it can fade colors  
+* Turn clothes inside out when drying to maintain the color on the outside  
+
+Ironing:  
+* Can be ironed on low to medium heat  
+* Iron   from the inside out to protect motifs and colors  
+* Fleece hoodies and sweaters do not need to be ironed, simply tidy them up while still warm after washing  
+
+Machine dryer:  
+* Not recommended to use a machine dryer as high heat can damage fiber elasticity and cause shrinkage  
+
+Storage:  
+* Store in a dry condition, folded neatly or hung  
+* Avoid storing in damp conditions as it can cause a musty smell  
+
+
+AEROCHILL PRODUCT CARE  
+
+Washing:  
+* Can be machine washed on gentle cycle  
+* MAXIMUM water temperature is 30 degrees Celsius; hot water damages Aerochill microfibers  
+* Use mild liquid detergent  
+* DO NOT use fabric softener as it can clog the fiber pores that function   for air circulation and moisture wicking  
+* DO NOT use bleach  
+
+Drying:  
+* Dry in a shaded area or air dry, AVOID direct sunlight  
+* Aerochill is quick dry, so it will dry quickly even without direct sunlight  
+
+Ironing:  
+* NOT recommended to iron Aerochill products on high heat  
+* If it needs to be neatened, use the lowest iron setting and cover with a thin cloth  
+
+Machine dryer: NOT recommended  
+
+Important Aerochill note:  
+Avoiding fabric softener is the most crucial thing to maintain Aerochill's function.   Softener coats the fabric fibers and significantly reduces moisture wicking capabilities.  
+
+
+
+THERMOWARM PRODUCT CARE  
+
+Washing:  
+* Can be machine washed on gentle cycle or hand wash  
+* MAXIMUM water temperature is 30 degrees Celsius  
+* Use mild detergent for sensitive clothes  
+* DO NOT use bleach or aggressive softeners  
+* Turn inside out before washing  
+
+Drying:  
+* Dry flat if possible to maintain shape, especially for ThermoWarm sweaters so they don't stretch  
+* If hung, use hangers that don't leave marks on the shoulders  
+
+Ironing:  
+* NOT recommended to iron ThermoWarm products directly  
+* If necessary, use the lowest temperature setting with a covering cloth  
+
+Machine dryer: NOT recommended, heat can damage thermal fiber technology  
+
+Dry Clean: Dry cleaning is allowed for ThermoWarm hoodies and jackets if needed  
+
+ 
+PART 6: SHIPPING   INFORMATION  
+ 
+SHIPPING SERVICES  
+
+Available couriers:  
+* JNE (Regular, YES, OKE)  
+* J&T Express  
+* SiCepat  
+* AnterAja  
+* GoSend and GrabExpress (same day, Jabodetabek only)  
+* ShopeeExpress and TokopediaExpress (for purchases via marketplace)  
+
+Estimated delivery time:  
+* Jabodetabek: 1-2 business days (regular), same day available via GoSend/GrabExpress  
+* Java (outside Jabodetabek): 2-3 business days  
+* Sumatra and Bali: 3-5 business days  
+* Kalimantan and Sulawesi: 4-6 business days  
+* Eastern Indonesia (Maluku, Papua, NTT, NTB): 5-8 business days  
+
+Order processing time:  
+Orders are processed and packed within 1-2 business days after payment is confirmed.   Orders received before 12:00 PM WIB on business days will be processed on the same day.  
+
+Shipping cost:  
+Shipping costs are calculated based on package weight and destination according to the rates of the selected courier.   Shipping costs are displayed transparently on the checkout page before payment.  
+
+Free shipping:  
+* Free shipping programs are available through vouchers on Shopee and Tokopedia  
+* Check the store page for ongoing free shipping promos  
+
+ 
+PART 7: EXCHANGE AND RETURN POLICIES  
+ 
+PRODUCT EXCHANGE POLICY  
+
+Pekys Store accepts product exchanges with the following conditions:  
+
+Conditions for products that can be exchanged:  
+* The product has not been worn, washed, or altered in any condition  
+* Product labels and tags are still fully attached  
+* The product is returned in its original packaging (original plastic wrapping)  
+* Exchanges are made within 7 calendar days after the product is received  
+
+Accepted reasons for exchange:  
+* Incorrect size (too big or too small)  
+* Color does not match what was   ordered (store's mistake)  
+* Production defect (unraveled stitching, holes, etc.)  
+
+Reasons not accepted:  
+* The product has been worn or washed  
+* Disliking the product after receiving it (not due to defects)  
+* Damage caused by the customer's mistake in usage or care  
+
+Exchange procedure:  
+1. Contact Pekys Store CS via WhatsApp or Instagram DM within 7 days after the product is received  
+2. Include a photo of the product and proof of purchase (order number)  
+3. CS will verify and provide confirmation within 1x24 hours  
+4. Once approved, send the product to the Pekys Store warehouse address provided by CS  
+5. After the product is received and checked (1-2 business days), the replacement product will be sent  
+
+Exchange shipping costs:  
+* If the exchange is due to a Pekys Store mistake   (defective product, wrong color/size sent): return shipping and replacement shipping are covered by Pekys Store  
+* If the exchange is due to incorrect sizing (customer's mistake in selecting size): return shipping is covered by the customer, replacement shipping is covered by Pekys Store  
+
+
+REFUND POLICY  
+
+Money refunds are issued under the following conditions:  
+* The ordered product is out of stock and no replacement is approved by the customer  
+* The product is defective and no replacement stock is available  
+* Double order errors from the system  
+
+Refund process:  
+* Refunds are processed within 3-5 business days after confirmation is approved  
+* Refunds are done via bank transfer or marketplace balance according to the original payment method  
+
+Sale products:  
+Products bought during a promo sale or flash sale cannot be   exchanged or refunded unless there is a production defect.  
+
+ 
+PART 8: PROGRAMS AND PROMOS  
+ 
+DISCOUNT AND PROMO PROGRAMS  
+
+First purchase discount:  
+New customers receive a 10 percent discount for their first purchase by using the promo code available on the Shopee and Tokopedia store pages.  
+
+Bundling programs:  
+* Buy 2 plain t-shirts: save Rp 20,000  
+* Buy 1 hoodie + 1 t-shirt: save Rp 30,000  
+* Buy any 3 items: get 1 free basic plain t-shirt (limited stock)  
+
+Wholesale and bulk order program:  
+For orders of more than 12 pcs per item, special wholesale prices are available.   Contact Pekys Store CS via WhatsApp for wholesale pricing and minimum order information.  
+
+Flash sale and seasonal promos:  
+Pekys Store routinely holds flash sales on Shopee and Tokopedia, especially during double dates (11.11, 12.12) and Harbolnas.   Follow the Instagram account @pekysstore for the latest promo info.  
+
+ 
+PART 9: GENERAL FAQ  
+ 
+
+
+
+MOST FREQUENTLY ASKED QUESTIONS  
+
+Is there a physical Pekys Store?  
+Currently, Pekys Store operates online via Shopee, Tokopedia, and Instagram. There are no physical stores yet.  
+
+Are Big Sizes available?  
+Yes. Pekys Store offers sizes up to XXXL for t-shirts, hoodies, and sweaters.   Pants are available up to size 40 (waist circumference 101-106 cm).  
+
+Are Pekys products suitable for sports?  
+Aerochill t-shirts are very suitable for light sports such as walking, yoga, and the gym due to their moisture-wicking technology.   For heavy sports, ensure you choose the appropriate products.  
+
+Is there a size difference for men and women?  
+Pekys Store uses the same size chart for men and women.   However, in general, women can choose 1 size smaller than their usual size for a more fitted look, or the same size for an oversize look.  
+
+How long is the production time for custom orders?  
+Pekys Store accepts custom orders for wholesale purchases. Production time is 14-21 business days depending on the order quantity. Contact CS for details.
+
+Do Pekys products use environmentally friendly materials?
+Pekys Store is committed to continuously increasing the use of more environmentally friendly materials. Aerochill and ThermoWarm materials are designed with the principle of material efficiency that reduces the need for extra layers, thus indirectly reducing material consumption.
